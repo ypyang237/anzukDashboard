@@ -1,0 +1,16 @@
+.Name {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.ImageContainer {
+  padding: 8px 0;
+}
+
+.ProfilePic {
+  width: 45px;
+  height: 45px;
+}
+
+
+

@@ -1,0 +1,39 @@
+.App {
+  background-color: #EFEDEF
+}
+
+.container-padding-around {
+  padding: 20px;
+}
+
+#location {
+  background-color: rgb(187, 186, 187);
+  font-size: 20px;
+  margin-left: 10px;
+  padding:5px 4px;
+  position: relative;
+  bottom: 4px;
+}
+
+#location small {
+  color: #798FAD;
+}
+
+.tablebg {
+  background-color: #fff;
+}
+
+th h5{
+  margin-left: 10px;
+}
+td {
+  text-align: center;
+}
+
+td:nth-child(odd) {
+  text-align: right;
+  font-weight: 900;
+}
+td:nth-child(even) {
+  text-align: left;
+}

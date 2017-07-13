@@ -1,0 +1,26 @@
+.Name {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.ImageContainer {
+  padding: 8px 0;
+}
+
+.ProfilePic {
+  width: 45px;
+  height: 45px;
+}
+
+.ActionBtn {
+  border: 1px solid #E0E0E0;
+  border-radius: 0px;
+  background-color: #fff;
+  padding: 6px;
+  position: relative;
+  bottom: 10px;
+  right: 8px;
+}
+.RedOverlay {
+  background-color:  rgb(255, 235, 236) !important;
+}
